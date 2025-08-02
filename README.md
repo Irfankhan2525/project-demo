@@ -1,2 +1,2 @@
 # project-demo
-this my first repository procject
+This my first repository procject
